@@ -1,0 +1,7 @@
+a = 5
+b = 6
+printf("The original value of a is {a} and b is {b}")
+c == a
+a == b
+b == a
+print(f"The swapped value of a is {a} and b is {b})
